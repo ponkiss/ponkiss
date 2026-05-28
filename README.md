@@ -35,7 +35,7 @@ support me here: [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi
 ![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
-![Rust](https://img.shields.io/badge/-Rust-3776AB?style=flat&logo=rust&logoColor=B7410E)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=rust&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=fff)

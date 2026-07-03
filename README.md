@@ -4,9 +4,6 @@ owner of [ponkis.xyz](https://ponkis.xyz) and associates.
 
 support me here: [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/ponkis) [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://ko-fi.com/ponkis)
 
-## `> whoami`
-> Nobody. I'm nobody. I'm a tramp, a bum, a hobo. I'm a boxcar and a jug of wine . . . and a straight razor if you get too close to me.
-
 <div align="center">
 
 ```
